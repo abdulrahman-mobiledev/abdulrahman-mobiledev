@@ -17,8 +17,8 @@
         letter-spacing: -0.06em;
       }
       .arabic {
-        font-family: 'SF Arabic', 'Geeza Pro', 'Arial', sans-serif;
-        font-weight: 400;
+        font-family: 'Diwan Kufi', 'Al Bayan', 'DecoType Naskh', 'Sakkal Majalla', 'SF Arabic', 'Geeza Pro', 'Tahoma', sans-serif;
+        font-weight: 500;
       }
       .dot { animation: pulse 2.4s cubic-bezier(0.16, 1, 0.3, 1) infinite; transform-origin: center; transform-box: fill-box; }
       @keyframes pulse {
@@ -53,7 +53,7 @@
   <text x="60" y="64" class="mono" font-size="11" fill="#9a8f82">SENIOR / MOBILE</text>
   <line x1="60" y1="76" x2="116" y2="76" stroke="#c66a3e" stroke-width="2"/>
 
-  <text x="1040" y="64" class="mono" font-size="11" fill="#7a6f62" text-anchor="end">30.0444° N · 31.2357° E</text>
+  <text x="1040" y="64" class="mono" font-size="11" fill="#7a6f62" text-anchor="end">CAIRO · GMT+2</text>
 
   <text x="60" y="230" class="display" font-size="118" fill="#f8f5ee">ABDULRAHMAN<tspan fill="#c66a3e">.</tspan></text>
   <text x="60" y="338" class="display" font-size="118" fill="none" stroke="#3a2e23" stroke-width="1.5">MOHAMMED</text>
@@ -72,7 +72,7 @@
 
   <text x="1240" y="270" class="mark markdrift" font-size="172" fill="#0f0a07" text-anchor="middle">A·M</text>
 
-  <text x="1240" y="332" class="arabic" font-size="26" fill="#0f0a07" text-anchor="middle" opacity="0.78" direction="rtl">عبد الرحمن محمد</text>
+  <text x="1240" y="338" class="arabic" font-size="34" fill="#0f0a07" text-anchor="middle" opacity="0.82" direction="rtl">عبد الرحمن محمد</text>
 
   <rect x="1130" y="392" width="14" height="60" fill="#0f0a07" class="bar"/>
   <rect x="1156" y="392" width="14" height="60" fill="#0f0a07" class="bar2"/>
