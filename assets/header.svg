@@ -17,8 +17,8 @@
         letter-spacing: -0.06em;
       }
       .arabic {
-        font-family: 'Diwan Kufi', 'Al Bayan', 'DecoType Naskh', 'Sakkal Majalla', 'SF Arabic', 'Geeza Pro', 'Tahoma', sans-serif;
-        font-weight: 500;
+        font-family: 'Diwan Thuluth', 'Al Bayan', 'DecoType Naskh', 'SF Arabic', 'Geeza Pro', 'Tahoma', serif;
+        font-weight: 400;
       }
       .dot { animation: pulse 2.4s cubic-bezier(0.16, 1, 0.3, 1) infinite; transform-origin: center; transform-box: fill-box; }
       @keyframes pulse {
@@ -72,7 +72,7 @@
 
   <text x="1240" y="270" class="mark markdrift" font-size="172" fill="#0f0a07" text-anchor="middle">A·M</text>
 
-  <text x="1240" y="338" class="arabic" font-size="34" fill="#0f0a07" text-anchor="middle" opacity="0.82" direction="rtl">عبد الرحمن محمد</text>
+  <text x="1240" y="342" class="arabic" font-size="38" fill="#0f0a07" text-anchor="middle" opacity="0.85" direction="rtl">عبد الرحمن محمد</text>
 
   <rect x="1130" y="392" width="14" height="60" fill="#0f0a07" class="bar"/>
   <rect x="1156" y="392" width="14" height="60" fill="#0f0a07" class="bar2"/>
