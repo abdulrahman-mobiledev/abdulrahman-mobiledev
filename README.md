@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Abdulrahman Mohammed — Senior React Native and Expo developer" width="100%">
+  <img src="./assets/header.svg" alt="Abdulrahman Mohammed, senior React Native and Expo developer based in Cairo" width="100%">
 </p>
 
-Senior React Native and Expo developer based in Cairo. Five years building production iOS and Android apps, usually as the only mobile engineer on each project — first commit through App Store and Play Store launch, including the post-release crash work and rejection cycles that take longer than the original build.
+Senior React Native and Expo developer based in Cairo. Five years building production iOS and Android apps, usually as the only mobile engineer on each project, first commit through App Store and Play Store launch, including the post-release crash work and rejection cycles that take longer than the original build.
 
 Recent work: AI-integrated mobile, healthcare and telehealth, real estate, and marketplaces. Comfortable across Supabase, Firebase, and GraphQL.
 
@@ -24,11 +24,11 @@ Kuwait's first car-parts marketplace. Built and shipped iOS and Android from lau
 
 #### WZGate &nbsp;·&nbsp; <sub>2024 → 2026 · agency work for direct clients</sub>
 
-Three production apps. **Niche** and **Shari Real Estate** — property discovery with deep-link routing from ad campaigns, interactive map-based search with location filters, and an in-app AI assistant for buyer queries. **PetWell** — pet care with clinic discovery, appointment booking on a GraphQL backend, and digital pet health records.
+Three production apps. **Niche** and **Shari Real Estate**: property discovery with deep-link routing from ad campaigns, interactive map-based search with location filters, and an in-app AI assistant for buyer queries. **PetWell**: pet care with clinic discovery, appointment booking on a GraphQL backend, and digital pet health records.
 
 #### Thought Craft &nbsp;·&nbsp; <sub>2023 → 2024</sub>
 
-White-label telemedicine. One codebase ships as a standalone consumer app or embeds inside a health-insurance partner app, with theming, auth, and routing all swappable per deployment. Zoom SDK for live doctor-patient consults — session lifecycle, in-call prescription generation, and mid-call access to medical history.
+White-label telemedicine. One codebase ships as a standalone consumer app or embeds inside a health-insurance partner app, with theming, auth, and routing all swappable per deployment. Zoom SDK for live doctor-patient consults: session lifecycle, in-call prescription generation, and mid-call access to medical history.
 
 #### ValuePlus &nbsp;·&nbsp; <sub>2021 → 2023</sub>
 
@@ -49,33 +49,29 @@ Saudi enterprise ERP. Dual apps deployed across multi-branch retail. POS with hi
 
 ---
 
-<h2 align="center">Work with me</h2>
+## Work with me
 
-<p align="center">
-  Send a quick description, a Loom, or an error log.<br>
-  I'll come back with a clear plan and a realistic timeline.
-</p>
-
-<table align="center">
+<table>
   <tr>
-    <td align="center" width="220">
-      <a href="mailto:abdulrahman.mohammed.dev@gmail.com"><strong>Email</strong></a>
-      <br>
-      <sub>abdulrahman.mohammed.dev@gmail.com</sub>
+    <td width="45%" valign="top">
+      <p>Send a quick description, a Loom, or an error log. I'll come back with a clear plan and a realistic timeline.</p>
+      <p><sub>Cairo, Egypt · GMT+2<br>Arabic (native), English (fluent)<br>Bachelor of Engineering, Cairo University</sub></p>
     </td>
-    <td align="center" width="220">
-      <a href="https://www.upwork.com/freelancers/abdulrahmandev"><strong>Upwork</strong></a>
-      <br>
-      <sub>Top Rated · @abdulrahmandev</sub>
-    </td>
-    <td align="center" width="220">
-      <a href="https://www.linkedin.com/in/abdulrahman-mohammed-yassin/"><strong>LinkedIn</strong></a>
-      <br>
-      <sub>@abdulrahman-mohammed-yassin</sub>
+    <td width="55%" valign="top">
+      <table>
+        <tr>
+          <td><strong>Email</strong></td>
+          <td><a href="mailto:abdulrahman.mohammed.dev@gmail.com">abdulrahman.mohammed.dev@gmail.com</a></td>
+        </tr>
+        <tr>
+          <td><strong>Upwork</strong></td>
+          <td><a href="https://www.upwork.com/freelancers/abdulrahmandev">Top Rated · @abdulrahmandev</a></td>
+        </tr>
+        <tr>
+          <td><strong>LinkedIn</strong></td>
+          <td><a href="https://www.linkedin.com/in/abdulrahman-mohammed-yassin/">@abdulrahman-mohammed-yassin</a></td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <sub>Cairo, Egypt · GMT+2 · Arabic (native), English (fluent) · Bachelor of Engineering, Cairo University</sub>
-</p>
