@@ -1,47 +1,96 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 360" width="1280" height="360" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Abdulrahman Mohammed — Senior React Native and Expo developer">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 520" width="1400" height="520" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Abdulrahman Mohammed — Senior React Native and Expo developer">
   <defs>
     <style>
-      .serif {
-        font-family: 'Iowan Old Style', 'Cormorant Garamond', 'EB Garamond', 'Playfair Display', Garamond, Georgia, serif;
-        font-weight: 500;
-        letter-spacing: -0.025em;
-      }
-      .italic {
-        font-family: 'Iowan Old Style', 'Cormorant Garamond', 'EB Garamond', 'Playfair Display', Garamond, Georgia, serif;
-        font-style: italic;
-        font-weight: 400;
-        letter-spacing: 0;
+      .display {
+        font-family: '-apple-system', 'BlinkMacSystemFont', 'Segoe UI', 'system-ui', 'Helvetica Neue', sans-serif;
+        font-weight: 900;
+        letter-spacing: -0.045em;
       }
       .mono {
         font-family: 'JetBrains Mono', 'SF Mono', 'Menlo', 'Consolas', 'Courier New', monospace;
-        font-weight: 400;
+        font-weight: 500;
         letter-spacing: 0.18em;
       }
+      .mark {
+        font-family: '-apple-system', 'BlinkMacSystemFont', 'Segoe UI', 'system-ui', sans-serif;
+        font-weight: 900;
+        letter-spacing: -0.06em;
+      }
+      .dot { animation: pulse 2.4s ease-in-out infinite; transform-origin: center; transform-box: fill-box; }
+      @keyframes pulse {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0.35; }
+      }
+      .barshift { animation: barshift 5s ease-in-out infinite; transform-origin: center; transform-box: fill-box; }
+      @keyframes barshift {
+        0%, 100% { transform: scaleY(1); }
+        50% { transform: scaleY(0.55); }
+      }
+      .barshift2 { animation: barshift 5s ease-in-out infinite; animation-delay: -1.5s; transform-origin: center; transform-box: fill-box; }
+      .barshift3 { animation: barshift 5s ease-in-out infinite; animation-delay: -3s; transform-origin: center; transform-box: fill-box; }
+      .markshift { animation: markshift 6s ease-in-out infinite; transform-origin: center; transform-box: fill-box; }
+      @keyframes markshift {
+        0%, 100% { opacity: 0.95; }
+        50% { opacity: 0.75; }
+      }
     </style>
+
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M 48 0 L 0 0 0 48" fill="none" stroke="#15151f" stroke-width="1"/>
+    </pattern>
   </defs>
 
-  <rect width="1280" height="360" fill="#0d1117"/>
+  <!-- LEFT SECTION: dark -->
+  <rect width="1400" height="520" fill="#08080c"/>
+  <rect width="1080" height="520" fill="url(#grid)" opacity="0.6"/>
 
-  <!-- subtle grid hairlines, very faint -->
-  <line x1="88" y1="40" x2="88" y2="320" stroke="#1c2128" stroke-width="1"/>
-  <line x1="1192" y1="40" x2="1192" y2="320" stroke="#1c2128" stroke-width="1"/>
+  <!-- RIGHT SECTION: vivid red -->
+  <rect x="1080" y="0" width="320" height="520" fill="#ff2d55"/>
 
-  <!-- top-left eyebrow -->
-  <text x="104" y="68" class="mono" font-size="11" fill="#8b949e">SENIOR · REACT NATIVE · EXPO</text>
-  <line x1="104" y1="80" x2="140" y2="80" stroke="#e8a87c" stroke-width="1.5"/>
+  <!-- top-left index -->
+  <text x="60" y="64" class="mono" font-size="11" fill="#9ba1ad">001 / PROFILE</text>
+  <line x1="60" y1="76" x2="104" y2="76" stroke="#ff2d55" stroke-width="2"/>
 
-  <!-- top-right locator -->
-  <text x="1176" y="68" class="mono" font-size="11" fill="#6e7681" text-anchor="end">CAIRO · GMT+2</text>
+  <!-- top-right (still inside dark area) meta -->
+  <text x="1040" y="64" class="mono" font-size="11" fill="#6e7681" text-anchor="end">CAIRO · GMT+2</text>
 
-  <!-- the name -->
-  <text x="100" y="222" class="serif" font-size="96" fill="#f0f6fc">Abdulrahman<tspan fill="#e8a87c" dx="-4">.</tspan></text>
+  <!-- main name: TWO LINES -->
+  <text x="60" y="230" class="display" font-size="118" fill="#fafafa">ABDULRAHMAN<tspan fill="#ff2d55">.</tspan></text>
+  <text x="60" y="338" class="display" font-size="118" fill="none" stroke="#3a3a4a" stroke-width="1.5">MOHAMMED</text>
+
+  <!-- horizontal divider -->
+  <line x1="60" y1="394" x2="1020" y2="394" stroke="#1c1c28" stroke-width="1"/>
 
   <!-- italic tagline -->
-  <text x="104" y="262" class="italic" font-size="24" fill="#c9d1d9">five years shipping production mobile apps</text>
+  <text x="60" y="432" font-size="20" fill="#c9d1d9" font-style="italic" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-weight="400">five years shipping production mobile apps</text>
 
-  <!-- bottom-left mono stack -->
-  <text x="104" y="312" class="mono" font-size="11" fill="#8b949e">REACT NATIVE · EXPO · TYPESCRIPT · AVAILABLE FOR CONTRACT</text>
+  <!-- bottom: tech stack mono caps -->
+  <rect x="60" y="466" width="48" height="6" fill="#ff2d55"/>
+  <text x="124" y="473" class="mono" font-size="12" fill="#e8eaed">REACT NATIVE  ·  EXPO  ·  TYPESCRIPT</text>
 
-  <!-- right vertical accent -->
-  <rect x="1188" y="188" width="3" height="84" fill="#e8a87c"/>
+  <!-- bottom right (dark area): status -->
+  <circle cx="1004" cy="470" r="4" fill="#26d97a" class="dot"/>
+  <text x="1040" y="475" class="mono" font-size="11" fill="#9ba1ad" text-anchor="end">OPEN FOR CONTRACT</text>
+
+  <!-- RIGHT COLUMN CONTENT: monogram + bars -->
+
+  <!-- top-right inside red: label -->
+  <text x="1340" y="64" class="mono" font-size="10" fill="#08080c" text-anchor="end" opacity="0.6">ABDULRAHMAN—MOBILEDEV</text>
+
+  <!-- Big monogram A·M -->
+  <text x="1240" y="280" class="mark markshift" font-size="180" fill="#08080c" text-anchor="middle">A·M</text>
+
+  <!-- animated bars below monogram -->
+  <rect x="1130" y="380" width="14" height="60" fill="#08080c" class="barshift"/>
+  <rect x="1156" y="380" width="14" height="60" fill="#08080c" class="barshift2"/>
+  <rect x="1182" y="380" width="14" height="60" fill="#08080c" class="barshift3"/>
+  <rect x="1208" y="380" width="14" height="60" fill="#08080c" class="barshift"/>
+  <rect x="1234" y="380" width="14" height="60" fill="#08080c" class="barshift2"/>
+  <rect x="1260" y="380" width="14" height="60" fill="#08080c" class="barshift3"/>
+  <rect x="1286" y="380" width="14" height="60" fill="#08080c" class="barshift"/>
+  <rect x="1312" y="380" width="14" height="60" fill="#08080c" class="barshift2"/>
+  <rect x="1338" y="380" width="14" height="60" fill="#08080c" class="barshift3"/>
+
+  <!-- bottom-right inside red: small mono caps year -->
+  <text x="1100" y="498" class="mono" font-size="10" fill="#08080c" opacity="0.7">v.2026</text>
 </svg>
