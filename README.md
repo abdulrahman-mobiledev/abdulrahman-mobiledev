@@ -36,33 +36,46 @@ Saudi enterprise ERP. Dual apps deployed across multi-branch retail. POS with hi
 
 ---
 
-## Two kinds of work
-
-**New builds.** MVP through enterprise. AI features, healthcare and telemedicine, marketplaces, ERP / POS, real estate.
-
-**Rescues.** Crashes, white screens, slow lists, laggy animations, broken navigation, auth bugs (Supabase, Firebase, OAuth, expo-auth-session), App Store and Play Store rejections, TestFlight issues.
-
----
-
 ## Stack
 
-```
-mobile        React Native · Expo · TypeScript · JavaScript (ES6+) · iOS · Android
-state + perf  Zustand · Redux Toolkit · MMKV · offline-first · profiling · render optimization
-backends      Supabase (auth, RLS, realtime, storage, edge fns) · Firebase · GraphQL · REST
-native        Reanimated · Lottie · deep linking · push · geolocation · geofencing · maps · IAP · native modules
-ai on mobile  conversational · image recognition · in-app assistants
-architecture  clean / feature-first / SOLID / MVVM · error boundaries
-store ops     App Store + Play Store submission · rejection handling
-tools         Git · GitHub · GitLab · TestFlight · CI/CD
-```
+|     |     |
+| --- | --- |
+| **Mobile** | React Native · Expo · TypeScript · iOS · Android |
+| **State + perf** | Zustand · Redux Toolkit · MMKV · offline-first · profiling · render optimization |
+| **Backends** | Supabase (auth, RLS, realtime, storage, edge fns) · Firebase · GraphQL · REST |
+| **Native** | Reanimated · Lottie · deep linking · push · geolocation · geofencing · maps · IAP · native modules |
+| **AI on mobile** | conversational · image recognition · in-app assistants |
+| **Architecture** | clean · feature-first · SOLID · MVVM · error boundaries |
 
 ---
 
-## Work with me
+<h2 align="center">Work with me</h2>
 
-Send a quick description, a Loom, or an error log. I'll come back with a clear plan and a realistic timeline.
+<p align="center">
+  Send a quick description, a Loom, or an error log.<br>
+  I'll come back with a clear plan and a realistic timeline.
+</p>
 
-[Email](mailto:abdulrahman.mohammed.dev@gmail.com) &nbsp;·&nbsp; [Upwork](https://www.upwork.com/freelancers/abdulrahmandev) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/abdulrahman-mohammed-yassin/)
+<table align="center">
+  <tr>
+    <td align="center" width="220">
+      <a href="mailto:abdulrahman.mohammed.dev@gmail.com"><strong>Email</strong></a>
+      <br>
+      <sub>abdulrahman.mohammed.dev@gmail.com</sub>
+    </td>
+    <td align="center" width="220">
+      <a href="https://www.upwork.com/freelancers/abdulrahmandev"><strong>Upwork</strong></a>
+      <br>
+      <sub>Top Rated · @abdulrahmandev</sub>
+    </td>
+    <td align="center" width="220">
+      <a href="https://www.linkedin.com/in/abdulrahman-mohammed-yassin/"><strong>LinkedIn</strong></a>
+      <br>
+      <sub>@abdulrahman-mohammed-yassin</sub>
+    </td>
+  </tr>
+</table>
 
-<sub>Cairo, Egypt · GMT+2 · Arabic (native), English (fluent) · Bachelor of Engineering, Cairo University</sub>
+<p align="center">
+  <sub>Cairo, Egypt · GMT+2 · Arabic (native), English (fluent) · Bachelor of Engineering, Cairo University</sub>
+</p>
