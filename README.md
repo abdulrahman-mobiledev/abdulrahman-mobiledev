@@ -36,42 +36,12 @@ Saudi enterprise ERP. Dual apps deployed across multi-branch retail. POS with hi
 
 ---
 
-## Stack
+<p align="center">
+  <img src="./assets/work-with-me.svg" alt="Work with me — Email, Upwork, LinkedIn" width="100%">
+</p>
 
-|     |     |
-| --- | --- |
-| **Mobile** | React Native · Expo · TypeScript · iOS · Android |
-| **State + perf** | Zustand · Redux Toolkit · MMKV · offline-first · profiling · render optimization |
-| **Backends** | Supabase (auth, RLS, realtime, storage, edge fns) · Firebase · GraphQL · REST |
-| **Native** | Reanimated · Lottie · deep linking · push · geolocation · geofencing · maps · IAP · native modules |
-| **AI on mobile** | conversational · image recognition · in-app assistants |
-| **Architecture** | clean · feature-first · SOLID · MVVM · error boundaries |
-
----
-
-## Work with me
-
-<table>
-  <tr>
-    <td width="45%" valign="top">
-      <p>Send a quick description, a Loom, or an error log. I'll come back with a clear plan and a realistic timeline.</p>
-      <p><sub>Cairo, Egypt · GMT+2<br>Arabic (native), English (fluent)<br>Bachelor of Engineering, Cairo University</sub></p>
-    </td>
-    <td width="55%" valign="top">
-      <table>
-        <tr>
-          <td><strong>Email</strong></td>
-          <td><a href="mailto:abdulrahman.mohammed.dev@gmail.com">abdulrahman.mohammed.dev@gmail.com</a></td>
-        </tr>
-        <tr>
-          <td><strong>Upwork</strong></td>
-          <td><a href="https://www.upwork.com/freelancers/abdulrahmandev">Top Rated · @abdulrahmandev</a></td>
-        </tr>
-        <tr>
-          <td><strong>LinkedIn</strong></td>
-          <td><a href="https://www.linkedin.com/in/abdulrahman-mohammed-yassin/">@abdulrahman-mohammed-yassin</a></td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="mailto:abdulrahman.mohammed.dev@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="https://www.upwork.com/freelancers/abdulrahmandev">Upwork</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/abdulrahman-mohammed-yassin/">LinkedIn</a>
+</p>
