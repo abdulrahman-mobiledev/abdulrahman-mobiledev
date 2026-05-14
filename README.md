@@ -11,6 +11,6 @@
 
 <p align="center">
   <a href="https://abdulrahman-mobiledev.github.io/upwork">
-    <b>↗&nbsp;&nbsp;abdulrahman-mobiledev.github.io/upwork</b>
+    <img src="./assets/portfolio-button.svg" alt="View portfolio" height="56">
   </a>
 </p>
