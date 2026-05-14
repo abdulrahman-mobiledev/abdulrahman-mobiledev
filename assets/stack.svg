@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 560" width="1400" height="560" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Stack: React Native, Expo, TypeScript, iOS, Android for mobile. Zustand, Redux Toolkit, MMKV, offline-first, profiling, render optimization for state and performance. Supabase (auth, RLS, realtime, storage, edge fns), Firebase, GraphQL, REST for backends. Reanimated, Lottie, deep linking, push, geolocation, geofencing, maps, IAP, native modules. Conversational AI, image recognition, in-app assistants for AI on mobile. Clean, feature-first, SOLID, MVVM, error boundaries for architecture.">
+  <defs>
+    <style>
+      .display { font-family: '-apple-system', 'BlinkMacSystemFont', 'Segoe UI', 'system-ui', sans-serif; font-weight: 900; letter-spacing: -0.025em; }
+      .body { font-family: '-apple-system', 'BlinkMacSystemFont', 'Segoe UI', 'system-ui', sans-serif; font-weight: 400; }
+      .mono { font-family: 'JetBrains Mono', 'SF Mono', 'Menlo', 'Consolas', monospace; font-weight: 700; letter-spacing: 0.18em; }
+    </style>
+    <pattern id="grid3" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M 48 0 L 0 0 0 48" fill="none" stroke="#1a1410" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1400" height="560" fill="#0f0a07"/>
+  <rect width="1400" height="560" fill="url(#grid3)" opacity="0.5"/>
+
+  <!-- Header -->
+  <text x="60" y="56" class="mono" font-size="11" fill="#9a8f82">▣ STACK</text>
+  <line x1="60" y1="68" x2="106" y2="68" stroke="#c66a3e" stroke-width="2"/>
+  <text x="60" y="118" class="display" font-size="44" fill="#f8f5ee">What I work with<tspan fill="#c66a3e">.</tspan></text>
+  <line x1="60" y1="156" x2="1340" y2="156" stroke="#2a2218" stroke-width="1"/>
+
+  <!-- Row 1: Mobile -->
+  <rect x="60" y="186" width="98" height="28" fill="#c66a3e"/>
+  <text x="76" y="205" class="mono" font-size="11" fill="#0f0a07">MOBILE</text>
+  <text x="180" y="206" class="body" font-size="16" fill="#f8f5ee">React Native  ·  Expo  ·  TypeScript  ·  iOS  ·  Android</text>
+  <line x1="60" y1="232" x2="1340" y2="232" stroke="#2a2218" stroke-width="1"/>
+
+  <!-- Row 2: State + perf -->
+  <rect x="60" y="244" width="158" height="28" fill="#c66a3e"/>
+  <text x="76" y="263" class="mono" font-size="11" fill="#0f0a07">STATE + PERF</text>
+  <text x="238" y="264" class="body" font-size="16" fill="#f8f5ee">Zustand  ·  Redux Toolkit  ·  MMKV  ·  offline-first  ·  profiling  ·  render optimization</text>
+  <line x1="60" y1="290" x2="1340" y2="290" stroke="#2a2218" stroke-width="1"/>
+
+  <!-- Row 3: Backends -->
+  <rect x="60" y="302" width="118" height="28" fill="#c66a3e"/>
+  <text x="76" y="321" class="mono" font-size="11" fill="#0f0a07">BACKENDS</text>
+  <text x="198" y="322" class="body" font-size="16" fill="#f8f5ee">Supabase (auth, RLS, realtime, storage, edge fns)  ·  Firebase  ·  GraphQL  ·  REST</text>
+  <line x1="60" y1="348" x2="1340" y2="348" stroke="#2a2218" stroke-width="1"/>
+
+  <!-- Row 4: Native -->
+  <rect x="60" y="360" width="92" height="28" fill="#c66a3e"/>
+  <text x="76" y="379" class="mono" font-size="11" fill="#0f0a07">NATIVE</text>
+  <text x="174" y="380" class="body" font-size="16" fill="#f8f5ee">Reanimated  ·  Lottie  ·  deep linking  ·  push  ·  geolocation  ·  geofencing  ·  maps  ·  IAP  ·  native modules</text>
+  <line x1="60" y1="406" x2="1340" y2="406" stroke="#2a2218" stroke-width="1"/>
+
+  <!-- Row 5: AI on mobile -->
+  <rect x="60" y="418" width="158" height="28" fill="#c66a3e"/>
+  <text x="76" y="437" class="mono" font-size="11" fill="#0f0a07">AI ON MOBILE</text>
+  <text x="238" y="438" class="body" font-size="16" fill="#f8f5ee">conversational  ·  image recognition  ·  in-app assistants</text>
+  <line x1="60" y1="464" x2="1340" y2="464" stroke="#2a2218" stroke-width="1"/>
+
+  <!-- Row 6: Architecture -->
+  <rect x="60" y="476" width="158" height="28" fill="#c66a3e"/>
+  <text x="76" y="495" class="mono" font-size="11" fill="#0f0a07">ARCHITECTURE</text>
+  <text x="238" y="496" class="body" font-size="16" fill="#f8f5ee">clean  ·  feature-first  ·  SOLID  ·  MVVM  ·  error boundaries</text>
+  <line x1="60" y1="522" x2="1340" y2="522" stroke="#2a2218" stroke-width="1"/>
+
+</svg>
